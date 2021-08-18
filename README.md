@@ -1,4 +1,4 @@
-# this project is yet under development
+# This project is yet under development for some major funtionalities.
 # music-player
 a simple music player. (HTML, CSS,JS)
 
