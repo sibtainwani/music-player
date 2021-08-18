@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(rgb(248, 163, 177), rgb(245, 205, 211));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    width: fit-content;
+    margin-left: auto ;
+    margin-right: auto;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: whitesmoke;
+    width: 40%;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.song-img img {
+    width: 80%;
+    height: 20%;
+    border-radius: 10px;
+}
+
+/* butoon styling */
+.action-btn {
+    background-color: whitesmoke;
+    border: none;
+    cursor: pointer;
+    font-size: 28px;
+    padding: 20px;
+}
+
+#play {
+    font-size: 34px;
+}
+
+.control-btn {
+    display: block;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+}
